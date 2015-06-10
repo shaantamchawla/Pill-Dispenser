@@ -24,6 +24,7 @@ void rotateCone1() {
   servo1.write(180);
   delay(1000);
 }
+
 void rotateCone2() {
   servo2.write(165);
   delay(1000);
